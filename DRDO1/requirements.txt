@@ -1,8 +1,0 @@
-streamlit
-faiss-cpu
-sentence-transformers
-pymongo
-dnspython
-mistralai
-python-dotenv
-requests
